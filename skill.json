@@ -1,0 +1,10 @@
+{
+  "name": "genpark-agentic-markdown",
+  "version": "1.0.0",
+  "description": "GenPark Agentic Markdown - CommonMark recursive AST parser, interactive UI widget markup transformer, and accessibility/contrast integrity auditor with zero dependencies.",
+  "tools": [
+    "parse_ast_token_density_and_depth",
+    "transform_interactive_agentic_widgets",
+    "audit_accessibility_and_contrast"
+  ]
+}
